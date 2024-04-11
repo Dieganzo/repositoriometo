@@ -1,2 +1,2 @@
-# repositoriometo
-repositorio repaso git-hub rial
+> [!NOTE]
+> clase repaso MOD
